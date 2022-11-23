@@ -1,0 +1,3 @@
+this is sample  code
+int a, b
+sum= "a+b"
